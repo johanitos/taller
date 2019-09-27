@@ -1,0 +1,27 @@
+.navbar_main{
+    background-color: fff;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:0%;
+    width: 100%;
+.menu
+{
+    align-items:  center;
+    display: flex;
+    list-style: none;
+    
+    li 
+    {
+        color:black;
+        font-size: 10px;
+        padding: 10px 15px;
+
+        &:hover{
+
+            color: #84724c;
+            cursor: pointer;
+        }
+    }
+}
+}

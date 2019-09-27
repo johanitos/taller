@@ -1,0 +1,24 @@
+.Hero_main
+{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    .Hero_img
+    img{
+        width: 500px;
+
+    }
+}
+.Hero_text
+{
+    width: 30%;
+
+    .heroTitle
+    {
+        color: #262626;
+        font-size: 40px;
+
+    }
+}
